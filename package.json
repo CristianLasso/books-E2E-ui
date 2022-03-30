@@ -1,0 +1,26 @@
+{
+  "name": "books-e2e-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CristianLasso/books-E2E-ui.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CristianLasso/books-E2E-ui/issues"
+  },
+  "homepage": "https://github.com/CristianLasso/books-E2E-ui#readme",
+  "dependencies": {
+    "chai": "^4.3.6"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^6.0.0",
+    "cypress": "^9.5.3"
+  }
+}
